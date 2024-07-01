@@ -1,0 +1,182 @@
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\2\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\2\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\2\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\2\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\2\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\2\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\3\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\3\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\3\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\3\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\3\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\3\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\4\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\4\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\4\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\4\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\4\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\4\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\5\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\5\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\5\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\5\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\5\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\5\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\6\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\6\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\6\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\6\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\6\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\6\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\7\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\7\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\7\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\7\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\7\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\7\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\8 test\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\8 test\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\8 test\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\8 test\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\8 test\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\8 test\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\9 correction bug color\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\9 correction bug color\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\9 correction bug color\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\9 correction bug color\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\9 correction bug color\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\9 correction bug color\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\10\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\10\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\10\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\10\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\10\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\10\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\11 changement de methode color\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\11 changement de methode color\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\11 changement de methode color\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\11 changement de methode color\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\11 changement de methode color\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\11 changement de methode color\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\12 new bar\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\12 new bar\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\12 new bar\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\12 new bar\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\12 new bar\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\12 new bar\obj\Debug\net8.0\ref\Minigame.dll
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.AssemblyInfo.cs
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\refint\Minigame.dll
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\13 recolo\bin\Debug\net8.0\Minigame.exe
+F:\Document\DEV\C#\Minigame\13 recolo\bin\Debug\net8.0\Minigame.deps.json
+F:\Document\DEV\C#\Minigame\13 recolo\bin\Debug\net8.0\Minigame.runtimeconfig.json
+F:\Document\DEV\C#\Minigame\13 recolo\bin\Debug\net8.0\Minigame.dll
+F:\Document\DEV\C#\Minigame\13 recolo\bin\Debug\net8.0\Minigame.pdb
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\Minigame.genruntimeconfig.cache
+F:\Document\DEV\C#\Minigame\13 recolo\obj\Debug\net8.0\ref\Minigame.dll
